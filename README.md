@@ -1,6 +1,6 @@
 # GreeceJS: Speaker Guidelines
 
-### tl;dr
+### TL;DR
 
 Speak Greek or English - Talk about something you genuinely care about - Be cool, you’re going to be a YouTube star - Make it readable - Stay on schedule - Don’t offend people.
 
