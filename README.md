@@ -16,7 +16,7 @@ We’re **recording**, subtitling and uploading all talks on our [YouTube channe
 
 We’re currently hosted at [Innovathens](https://www.innovathens.gr/) where we’re lucky to have 3 large TVs to present on. This means that your presentation will take the most out of our displays if it’s on a **16:9 aspect ratio**.
 
-Don’t be the - _“I know you can't see this, but...”_ - speaker. We’ re not THAT dogmatic to suggest the 30px minimum font from the [10/20/30 rule](https://guykawasaki.com/the_102030_rule/) (a very interesting read btw) but any code snippets or live coding you present, should be quite easy to read. We suggest a **18px minimum font size** and a **maximum of 10 lines for code snippets** embedded into your presentation. Otherwise switch to your favourite editor where you can scroll and zoom in. 
+Don’t be the - _“I know you can't see this, but...”_ - speaker. We’ re not THAT dogmatic to suggest the 30px minimum font from the [10/20/30 rule](https://guykawasaki.com/the_102030_rule/) (a very interesting read btw) but any code snippets or live coding you present, should be quite easy to read. We suggest a **18px minimum font size** and a **maximum of 10 lines** for code snippets embedded into your presentation. Otherwise switch to your favourite editor where you can scroll and zoom in. 
 
 Ok, we’re not punctual as hell, but please try hard not to exceed your time limit :). We typically allocate **30 mins for the talk and 15 mins for the Q&A**, but if you have this awesome - can’t make shorter talk - please let us know in advance so that we adjust the schedule.
 
